@@ -113,3 +113,12 @@ h2 {
 #spacer {
     height: calc(100vh * 0.2);
 }
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    font-style: italic;
+}
