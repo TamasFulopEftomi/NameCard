@@ -24,6 +24,8 @@ var facebookHU = '<a href="https://www.facebook.com/tamas.fulop.eftomi" target="
 var facebookEN = '<a href="https://www.facebook.com/tamas.fulop.eftomi" target="_blank" title="Visit me on Facebook."><i class="fab fa-2x fa-facebook black trans"></i></a>';
 var emailHU = '<a href="mailto:tamas.fulop.eftomi@gmail.com" target="blank" title="Küldj email-t: tamas.fulop.eftomi@gmail.com"><i class="far fa-2x fa-envelope black trans"></i></a>';
 var emailEN = '<a href="mailto:tamas.fulop.eftomi@gmail.com" target="blank" title="Send me email: tamas.fulop.eftomi@gmail.com"><i class="far fa-2x fa-envelope black trans"></i></a>';
+var mobileHU = '<a href="tel:+36302512561" target="blank" title="Hívj fel: +36 30 251 2561"><i class="fas fa-2x fa-mobile-alt black trans"></i></a>';
+var mobileEN = '<a href="tel:+36302512561" target="blank" title="Call me on: +36 30 251 2561"><i class="fas fa-2x fa-mobile-alt black trans"></i></a>';
 
 function languageChangeHU() {
     document.getElementById('name').innerHTML = nameHU;
@@ -35,6 +37,7 @@ function languageChangeHU() {
     document.getElementById('linkedin').innerHTML = linkedinHU;
     document.getElementById('facebook').innerHTML = facebookHU;
     document.getElementById('email').innerHTML = emailHU;
+    document.getElementById('mobile').innerHTML = mobileHU;
 }
 
 function languageChangeEN() {
@@ -47,6 +50,7 @@ function languageChangeEN() {
     document.getElementById('linkedin').innerHTML = linkedinEN;
     document.getElementById('facebook').innerHTML = facebookEN;
     document.getElementById('email').innerHTML = emailEN;
+    document.getElementById('mobile').innerHTML = mobileEN;
 }
 
 
@@ -59,3 +63,4 @@ document.getElementById('github').innerHTML = githubEN;
 document.getElementById('linkedin').innerHTML = linkedinEN;
 document.getElementById('facebook').innerHTML = facebookEN;
 document.getElementById('email').innerHTML = emailEN;
+document.getElementById('mobile').innerHTML = mobileEN;

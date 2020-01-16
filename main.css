@@ -40,6 +40,7 @@ button {
 
 ul {
     list-style-type: none;
+    padding-top: 4px;
 }
 
 li {
@@ -122,4 +123,8 @@ a {
 a:hover {
     font-style: italic;
     text-decoration: underline;
+}
+
+#home {
+    line-height: 25px;
 }
