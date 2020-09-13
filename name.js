@@ -4,14 +4,14 @@ var professionHU = 'Junior Szoftverfejlesztő';
 var professionEN = 'Junior Software Developer';
 var homeHU = 'Magyarország, Dunaújváros';
 var homeEN = 'Dunaujvaros, Hungary';
-var aboutHU = '<p class="paragraph">Szoftverfejlesztő tudásom alapját <strong><em>Java 8, HTML 5, CSS 3, MySQL, Git</em></strong> technológiák ismeretei alkotják.' +
+var aboutHU = '<p class="paragraph">Szoftverfejlesztő tudásom alapját <strong><em>Java 8, HTML 5, CSS 3, MySQL, Git, Maven</em></strong> technológiák ismeretei alkotják.' +
     '<br>Szoftverfejlesztői képességemet a <a href="https://github.com/TamasFulopEftomi" target="_blank" title="Tekintsd meg Github repozitorimat."><strong>Github</strong></a>' +
-    ' repozitorimban található kisebb-nagyobb projekteken keresztül mutatom be.</p><p class="paragraph">Önéletrajzomat megnézheted a <a href="https://www.linkedin.com/in/tamasfulopeftomi/"' +
+    ' repozitorimban található kisebb-nagyobb projekteken keresztül mutatom be. Pl.: Acélszalaghasítóállvány méretszerkesztő: <a href="https://github.com/TamasFulopEftomi/steel_slitting_calculator" target="_blank"><strong>katt ide</strong>.</a>    </p><p class="paragraph">Önéletrajzomat megnézheted a <a href="https://www.linkedin.com/in/tamasfulopeftomi/"' +
     ' target="_blank" title="Látogass meg a LinkedIn-en."><strong>LinkedIn</strong></a>-en.</p><p class="paragraph">A <a href="https://www.facebook.com/tamas.fulop.eftomi"' +
     ' target="_blank" title="Látogass meg a Facebook-on."><strong>Facebook</strong></a> profilomon keresztül többet megtudhatsz rólam és hobbijaimról.</p>';
-var aboutEN = '<p class="paragraph">My software development knowledge based on the next technologies: <strong><em>Java 8, HTML 5, CSS 3, MySQL, Git</em></strong>.' +
+var aboutEN = '<p class="paragraph">My software development knowledge based on the next technologies: <strong><em>Java 8, HTML 5, CSS 3, MySQL, Git, Maven</em></strong>.' +
     '<br>You can find out more about my ability as a software developer through smaller and larger projects in my <a href="https://github.com/TamasFulopEftomi" target="_blank"' +
-    ' title="Take a look at my Github repository."><strong>Github</strong></a> repository.</p><p class="paragraph">You can see my professional CV on <a href="https://www.linkedin.com/in/tamasfulopeftomi/"' +
+    ' title="Take a look at my Github repository."><strong>Github</strong></a> repository. E.g.: Steel Slitting Stand Dimension Calculator: <a href="https://github.com/TamasFulopEftomi/steel_slitting_calculator" target="_blank"><strong>click here</strong>.</a></p><p class="paragraph">You can see my professional CV on <a href="https://www.linkedin.com/in/tamasfulopeftomi/"' +
     ' target="_blank" title="Visit me on LinkedIn."><strong>LinkedIn</strong></a>.</p><p class="paragraph">On my <a href="https://www.facebook.com/tamas.fulop.eftomi"' +
     ' target="_blank" title="Visit me on Facebook."><strong>Facebook</strong></a> profile you can see more about me and my hobbies.</p>';
 var contactHU = 'Lépj velem kapcsolatba:';
